@@ -4,7 +4,7 @@ import { HomeSection } from "../components/HomeSection/HomeSection";
 const Home = () => {
   return (
     <HomeSection>
-      <Title>Welcome at Tweets</Title>
+      <Title>Welcome</Title>
     </HomeSection>
   );
 };
